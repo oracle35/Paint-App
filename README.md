@@ -1,6 +1,6 @@
-## Getting Started
+# Paint App
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## TC3004B: Software Development and Implementation
 
 ## Folder Structure
 
